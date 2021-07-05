@@ -22,7 +22,7 @@ export default [
   {
     name: 'Javier',
     email: 'javier@gmail.com',
-    tel: '600450436',
+    tel: '658987789',
     company: 'SUPRMODE',
     id: 28,
     stars: 80,
@@ -32,7 +32,7 @@ export default [
   {
     name: 'Pedro',
     email: 'pedro@gmail.com',
-    tel: '600450436',
+    tel: '658987789',
     company: 'PEDROMODE',
     id: 29,
     stars: 90,
@@ -42,7 +42,7 @@ export default [
   {
     name: 'Jose',
     email: 'jose@gmail.com',
-    tel: '600450436',
+    tel: '658987789',
     company: 'JOSESPORTS',
     id: 30,
     stars: 80,
@@ -52,7 +52,7 @@ export default [
   {
     name: 'Maria',
     email: 'maria@gmail.com',
-    tel: '600450436',
+    tel: '658987789',
     company: 'MARIA SL',
     id: 31,
     stars: 90,
@@ -62,7 +62,7 @@ export default [
   {
     name: 'Paloma',
     email: 'paloma@gmail.com',
-    tel: '600450436',
+    tel: '658987789',
     company: 'PALOMA SL',
     id: 32,
     stars: 55,
@@ -72,7 +72,7 @@ export default [
   {
     name: 'Teresa',
     email: 'teresa@gmail.com',
-    tel: '600450436',
+    tel: '658987789',
     company: 'TERESA SL',
     id: 33,
     stars: 92,
