@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   }
 })
 
-export default function StyledText({ color, children, fontSize, fontWeight, align, style, ...restOfProps }) {
+export default function StyledText ({ color, children, fontSize, fontWeight, align, style, ...restOfProps }) {
   const textStyles = [
     styles.text,
     align === 'center' && styles.textAlignCenter,
